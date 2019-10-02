@@ -40,10 +40,10 @@ public class Planet : MonoBehaviour
         {
             if (meshFilters[i] == null)
             {
-                GameObject meshObj = new GameObject("mesh");
+                GameObject meshObj = new GameObject("Mesh");
                 meshObj.transform.parent = transform;
 
-                meshObj.AddComponent<MeshRenderer>().sharedMaterial = new Material(Shader.Find("HDRP/Lit"));
+                meshObj.AddComponent<MeshRenderer>().sharedMaterial = new Material(Shader.Find("Unlit/Color"));
                 meshFilters[i] = meshObj.AddComponent<MeshFilter>();
                 meshFilters[i].sharedMesh = new Mesh();
             }
