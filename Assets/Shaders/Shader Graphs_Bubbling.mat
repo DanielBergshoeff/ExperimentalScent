@@ -22,5 +22,7 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs: []
-    m_Floats: []
+    m_Floats:
+    - _Edge: 0.62
+    - _Power: 4.33
     m_Colors: []
