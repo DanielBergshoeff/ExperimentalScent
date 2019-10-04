@@ -764,6 +764,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -817,6 +822,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -1196,6 +1231,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (83)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1249,6 +1289,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -2461,6 +2531,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2514,6 +2589,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -3018,6 +3123,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3071,6 +3181,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -3483,6 +3623,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &113435436 stripped
@@ -3783,6 +3943,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3836,6 +4001,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -4131,6 +4326,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4184,6 +4384,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -4786,6 +5016,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &188784504 stripped
@@ -5137,6 +5387,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: WoodBox_2 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1913198d9a64e48488443b278fdd92d0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1913198d9a64e48488443b278fdd92d0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 1913198d9a64e48488443b278fdd92d0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 1913198d9a64e48488443b278fdd92d0, type: 3}
       propertyPath: m_LocalPosition.x
       value: -94.87
@@ -5197,18 +5459,6 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 8b6e76d8c3f132d43813ab755874048c, type: 2}
-    - target: {fileID: 400000, guid: 1913198d9a64e48488443b278fdd92d0, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 1913198d9a64e48488443b278fdd92d0, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 1913198d9a64e48488443b278fdd92d0, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1913198d9a64e48488443b278fdd92d0, type: 3}
 --- !u!4 &202557488 stripped
@@ -5228,6 +5478,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -5282,6 +5537,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -5469,6 +5754,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5522,6 +5812,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -5619,6 +5939,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5672,6 +5997,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -5871,6 +6226,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &238689504 stripped
@@ -5890,6 +6265,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -5944,6 +6324,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -7024,6 +7434,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7077,6 +7492,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -7547,6 +7992,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -8394,6 +8859,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8447,6 +8917,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -8559,6 +9059,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8612,6 +9117,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -9515,6 +10050,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9568,6 +10108,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -11037,6 +11607,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11090,6 +11665,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -11902,6 +12507,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -13107,6 +13732,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13162,6 +13792,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &563985330 stripped
@@ -13181,6 +13841,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -13235,6 +13900,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -13452,6 +14147,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13505,6 +14205,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -13857,6 +14587,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -14908,6 +15658,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14961,6 +15716,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -15678,6 +16463,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &643268336 stripped
@@ -16013,6 +16818,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (85)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16068,6 +16878,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &660538189 stripped
@@ -16087,6 +16927,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -16141,6 +16986,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -16904,6 +17779,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16957,6 +17837,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -17549,6 +18459,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (57)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17602,6 +18517,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -18099,6 +19044,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -18152,6 +19102,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -18459,6 +19439,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -19497,6 +20497,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &852749588 stripped
@@ -20013,6 +21033,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20068,6 +21093,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &879260450 stripped
@@ -20087,6 +21142,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -20141,6 +21201,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -20516,6 +21606,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20569,6 +21664,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -20828,6 +21953,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &897583279 stripped
@@ -20847,6 +21992,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -20901,6 +22051,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -21924,6 +23104,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21977,6 +23162,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -22374,6 +23589,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -22427,6 +23647,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -22534,6 +23784,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &986196740 stripped
@@ -22629,6 +23899,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (88)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -22682,6 +23957,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -22940,6 +24245,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -23847,6 +25172,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23902,6 +25232,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1029755918 stripped
@@ -23921,6 +25281,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -23977,6 +25342,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1042611498 stripped
@@ -23996,6 +25391,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -24050,6 +25450,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -24423,6 +25853,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -24476,6 +25911,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -24608,6 +26073,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -24661,6 +26131,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -25827,6 +27327,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -25880,6 +27385,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -27190,6 +28725,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -27243,6 +28783,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -27529,6 +29099,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -28465,6 +30055,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1204992622 stripped
@@ -28650,6 +30260,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -28703,6 +30318,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -28780,6 +30425,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1215969009 stripped
@@ -28799,6 +30464,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -28855,6 +30525,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1217160532 stripped
@@ -28874,6 +30574,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -28928,6 +30633,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -29444,6 +31179,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1249455717 stripped
@@ -29493,6 +31248,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (89)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -29549,6 +31309,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1258296168 stripped
@@ -29568,6 +31358,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -29622,6 +31417,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -29824,6 +31649,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -29877,6 +31707,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -30109,6 +31969,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -30164,6 +32029,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1290682701 stripped
@@ -30183,6 +32078,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -30237,6 +32137,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -30998,6 +32928,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1330109978 stripped
@@ -31021,7 +32971,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1336831869
 Transform:
   m_ObjectHideFlags: 0
@@ -31091,6 +33041,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -31146,6 +33101,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1338308122 stripped
@@ -31165,6 +33150,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -31219,6 +33209,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -32422,6 +34442,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -32475,6 +34500,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -32752,6 +34807,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -32805,6 +34865,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -33112,6 +35202,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -33167,6 +35262,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1431847531 stripped
@@ -33186,6 +35311,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -33240,6 +35370,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -33391,6 +35551,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -34560,6 +36740,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -34613,6 +36798,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -36246,6 +38461,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -36299,6 +38519,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -36989,6 +39239,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -37042,6 +39297,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -37118,6 +39403,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -37971,6 +40276,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -38024,6 +40334,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -38258,6 +40598,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -38311,6 +40656,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -38387,6 +40762,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -38523,6 +40918,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -38576,6 +40976,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -38834,6 +41264,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -39222,6 +41672,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -39275,6 +41730,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -39419,6 +41904,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -39472,6 +41962,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -39655,6 +42175,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (81)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -39708,6 +42233,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -40107,6 +42662,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (86)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -40160,6 +42720,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -40665,6 +43255,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1791720718 stripped
@@ -40831,6 +43441,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -41581,6 +44211,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -41634,6 +44269,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -41821,6 +44486,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (79)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -41874,6 +44544,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -41986,6 +44686,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -42039,6 +44744,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -42288,6 +45023,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -42341,6 +45081,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -42618,6 +45388,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -42673,6 +45448,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1884122108 stripped
@@ -42692,6 +45497,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (84)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -42746,6 +45556,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -43233,6 +46073,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -43286,6 +46131,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -44190,6 +47065,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -44245,6 +47125,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &1930785925 stripped
@@ -44264,6 +47174,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigCage (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
@@ -44318,6 +47233,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -44565,6 +47510,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -44618,6 +47568,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -44724,6 +47704,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -45369,6 +48369,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -45422,6 +48427,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -45776,6 +48811,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &2045477736 stripped
@@ -45940,6 +48995,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -46114,6 +49189,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -46167,6 +49247,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -46525,7 +49635,7 @@ PrefabInstance:
     - target: {fileID: 7707058675847708423, guid: f81fbf4d1b9287d4dabac55d685eee05,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 95.56
+      value: 4.08
       objectReference: {fileID: 0}
     - target: {fileID: 7707058675847708423, guid: f81fbf4d1b9287d4dabac55d685eee05,
         type: 3}
@@ -46535,7 +49645,7 @@ PrefabInstance:
     - target: {fileID: 7707058675847708423, guid: f81fbf4d1b9287d4dabac55d685eee05,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.4
+      value: 84.11
       objectReference: {fileID: 0}
     - target: {fileID: 7707058675847708423, guid: f81fbf4d1b9287d4dabac55d685eee05,
         type: 3}
@@ -47106,6 +50216,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -47159,6 +50274,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -47564,6 +50709,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
 --- !u!4 &2116731129 stripped
@@ -47773,6 +50938,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb, type: 3}
@@ -48232,6 +51417,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigCage
       objectReference: {fileID: 0}
+    - target: {fileID: 8550279939408841535, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -48285,6 +51475,36 @@ PrefabInstance:
     - target: {fileID: 519696245944049319, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539651184393156757, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 235748121926953385, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095234083980243, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359095235275172121, guid: 8d1a7ce67a39c0049b34937eb0cb1fbb,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
