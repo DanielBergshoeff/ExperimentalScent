@@ -130,7 +130,7 @@ GameObject:
   m_Component:
   - component: {fileID: 18722883}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Lichtbakken
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2852,7 +2852,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 2c2309614573a794fa57ae284eef30c5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.604
+      value: 3.582
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 2c2309614573a794fa57ae284eef30c5, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4693,7 +4693,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 73c176f402d2c2f4d929aa5da7585d17, type: 2}
+  - {fileID: 2100000, guid: 62f08fc4debe6114faff71a392b6bef3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5921,6 +5921,31 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1902567125}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1902567127 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3876235755323283769, guid: 1624c58972493e7499e16e6dafe6781c,
+    type: 3}
+  m_PrefabInstance: {fileID: 1902567125}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1902567128
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1902567127}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ee5be365982af3940b64a53c455977c1, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &1934074962
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6081,6 +6106,31 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1934074962}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1934074964 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3876235755323283769, guid: 1624c58972493e7499e16e6dafe6781c,
+    type: 3}
+  m_PrefabInstance: {fileID: 1934074962}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1934074965
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1934074964}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ee5be365982af3940b64a53c455977c1, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1935568404
 GameObject:
   m_ObjectHideFlags: 0
