@@ -17,12 +17,6 @@ public class Door : MonoBehaviour
         RoomManager.AddDoor(this);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void LoadScene()
     {
         doorIdOrigin = doorId;

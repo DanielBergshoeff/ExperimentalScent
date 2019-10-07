@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.Experimental.VFX;
 public class ScentManager : MonoBehaviour
 {
+    public static ScentManager Instance;
+
     public List<GameObject> ScentObjects;
     public List<List<GridNode>> Paths;
     public List<VisualEffect> Scents;
@@ -18,6 +20,7 @@ public class ScentManager : MonoBehaviour
     void Start()
     {
         Paths = new List<List<GridNode>>();
+        Instance = this;
 
         foreach (GameObject go in ScentObjects)
         {
@@ -40,6 +43,26 @@ public class ScentManager : MonoBehaviour
         UpdateScentLines();
     }
 
+    public void RemoveScentObject(GameObject scentObject)
+    {
+        if (!ScentObjects.Contains(scentObject))
+            return;
+
+        int index = ScentObjects.IndexOf(scentObject);
+
+        VisualEffect vfx = Scents[index];
+        Scents.Remove(vfx);
+
+        GameObject go = ScentObjects[index];
+        ScentObjects.Remove(go);
+
+        List<GridNode> gridNodes = Paths[index];
+        Paths.Remove(gridNodes);
+
+        Destroy(vfx.gameObject);
+        Destroy(go);
+    }
+
     private void UpdateScentLines()
     {
         for (int i = 0; i < ScentObjects.Count; i++) //Go through all the scent objects
@@ -58,10 +81,13 @@ public class ScentManager : MonoBehaviour
 
         for (int i = 0; i < ScentObjects.Count; i++) //Go through all the scent objects
         {
+            if (ScentObjects[i] == null) //If the scent object is null
+                continue;
+
             if (!ScentObjects[i].activeSelf) //If the scent object is not active, continue
                 continue;
 
-            if (Paths[i] == null)
+            if (Paths[i] == null) //If there is no path
                 continue;
 
             int intNode = (int)(Paths[i].Count * timer) - 1;
