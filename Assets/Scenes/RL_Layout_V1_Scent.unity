@@ -1052,6 +1052,9 @@ VisualEffect:
       - m_Value: 100
         m_Name: SpawnMinRate
         m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
+        m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
@@ -3203,6 +3206,9 @@ VisualEffect:
       - m_Value: 100
         m_Name: SpawnMinRate
         m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
+        m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
@@ -4063,6 +4069,9 @@ VisualEffect:
         m_Overridden: 1
       - m_Value: 10000
         m_Name: SpawnMaxRate
+        m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
         m_Overridden: 1
     m_Vector2f:
       m_Array: []
@@ -6272,6 +6281,9 @@ VisualEffect:
       - m_Value: 10000
         m_Name: SpawnMaxRate
         m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
+        m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
@@ -6577,6 +6589,9 @@ VisualEffect:
         m_Overridden: 1
       - m_Value: 100
         m_Name: SpawnMinRate
+        m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
         m_Overridden: 1
     m_Vector2f:
       m_Array: []
@@ -8977,6 +8992,9 @@ VisualEffect:
       - m_Value: 100
         m_Name: SpawnMinRate
         m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
+        m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
@@ -9741,6 +9759,9 @@ VisualEffect:
       - m_Value: 10000
         m_Name: SpawnMaxRate
         m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
+        m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
@@ -10285,6 +10306,9 @@ VisualEffect:
         m_Overridden: 1
       - m_Value: 100
         m_Name: SpawnMinRate
+        m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
         m_Overridden: 1
     m_Vector2f:
       m_Array: []
@@ -10882,6 +10906,9 @@ VisualEffect:
       - m_Value: 10000
         m_Name: SpawnMaxRate
         m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
+        m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
@@ -11249,6 +11276,9 @@ VisualEffect:
         m_Overridden: 1
       - m_Value: 100
         m_Name: SpawnMinRate
+        m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
         m_Overridden: 1
     m_Vector2f:
       m_Array: []
@@ -11941,6 +11971,9 @@ VisualEffect:
       - m_Value: 300
         m_Name: SpawnMaxRate
         m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
+        m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
@@ -12310,6 +12343,9 @@ VisualEffect:
         m_Overridden: 1
       - m_Value: 300
         m_Name: SpawnMaxRate
+        m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
         m_Overridden: 1
     m_Vector2f:
       m_Array: []
@@ -14922,6 +14958,9 @@ VisualEffect:
       - m_Value: 300
         m_Name: SpawnMaxRate
         m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
+        m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
@@ -16264,6 +16303,9 @@ VisualEffect:
         m_Overridden: 1
       - m_Value: 2
         m_Name: RepelStrength
+        m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
         m_Overridden: 1
     m_Vector2f:
       m_Array: []
@@ -18740,6 +18782,9 @@ VisualEffect:
       - m_Value: 10000
         m_Name: SpawnMaxRate
         m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
+        m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
@@ -19268,6 +19313,9 @@ VisualEffect:
         m_Overridden: 1
       - m_Value: 10000
         m_Name: SpawnMaxRate
+        m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
         m_Overridden: 1
     m_Vector2f:
       m_Array: []
@@ -19868,6 +19916,9 @@ VisualEffect:
         m_Overridden: 1
       - m_Value: 300
         m_Name: SpawnMaxRate
+        m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
         m_Overridden: 1
     m_Vector2f:
       m_Array: []
@@ -21409,6 +21460,9 @@ VisualEffect:
       - m_Value: 100
         m_Name: SpawnMinRate
         m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
+        m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
@@ -21848,6 +21902,9 @@ VisualEffect:
         m_Overridden: 1
       - m_Value: 10000
         m_Name: SpawnMaxRate
+        m_Overridden: 1
+      - m_Value: 1
+        m_Name: LifetimeMax
         m_Overridden: 1
     m_Vector2f:
       m_Array: []
