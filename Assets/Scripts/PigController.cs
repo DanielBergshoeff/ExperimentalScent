@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class PigController : MonoBehaviour
@@ -9,10 +10,14 @@ public class PigController : MonoBehaviour
 
     public GameObject DoorPrompt;
     public GameObject NuzzlePrompt;
+    public GameObject CarrotPrompt;
     public GameObject GameOverText;
+
+    public Text CarrotsCollectedNr;
 
     private void Start() {
         GameOverText.SetActive(false);
+        CarrotsCollectedNr.text = GameManager.CarrotsCollected.ToString();
     }
 
     private void Update()
@@ -25,6 +30,7 @@ public class PigController : MonoBehaviour
     {
         DoorPrompt.SetActive(false);
         NuzzlePrompt.SetActive(false);
+        CarrotPrompt.SetActive(false);
     }
 
     private void RaycastForward()
@@ -75,6 +81,21 @@ public class PigController : MonoBehaviour
                 if (Input.GetKeyDown(InteractionKey)) {
                     Pig pig = hit.transform.GetComponent<Pig>();
                     pig.Nuzzled = true;
+                }
+            }
+
+            //If a carrot is hit
+            else if(hit.transform.tag == "Carrot")
+            {
+                CarrotPrompt.SetActive(true);
+
+                //If the interaction key is pressed
+                if (Input.GetKeyDown(InteractionKey))
+                {
+                    GameManager.CarrotsCollected++;
+                    CarrotsCollectedNr.text = GameManager.CarrotsCollected.ToString();
+                    RoomManager.sceneToObjects[SceneManager.GetActiveScene().name][RoomManager.Instance.objectsToSave.IndexOf(hit.transform.gameObject)] = true;
+                    ScentManager.Instance.RemoveScentObject(hit.transform.gameObject);
                 }
             }
         }

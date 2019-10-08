@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class RoomManager : MonoBehaviour
 {
@@ -10,6 +11,9 @@ public class RoomManager : MonoBehaviour
 
     public GameObject WorkerPrefab;
     public List<Worker> Workers;
+
+    public List<GameObject> objectsToSave;
+    public static Dictionary<string, List<bool>> sceneToObjects;
 
     public GameObject Player;
     public Pathfinding pathfinding;
@@ -29,6 +33,24 @@ public class RoomManager : MonoBehaviour
         TimeTillSpawn = Random.Range(MinTimeSpawn, MaxTimeSpawn);
         Pens = new List<PigPen>();
         Workers = new List<Worker>();
+
+        if (sceneToObjects == null)
+            sceneToObjects = new Dictionary<string, List<bool>>();
+
+        if (sceneToObjects.ContainsKey(SceneManager.GetActiveScene().name)) {
+            for (int i = 0; i < objectsToSave.Count; i++) {
+                if (sceneToObjects[SceneManager.GetActiveScene().name][i]) {
+                    ScentManager.Instance.RemoveScentObject(objectsToSave[i]);
+                }
+            }
+        }
+        else {
+            List<bool> bools = new List<bool>();
+            for (int i = 0; i < objectsToSave.Count; i++) {
+                bools.Add(false);
+            }
+            sceneToObjects.Add(SceneManager.GetActiveScene().name, bools);
+        }
     }
 
     // Update is called once per frame
