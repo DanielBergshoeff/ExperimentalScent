@@ -260,7 +260,7 @@ GameObject:
   - component: {fileID: 6026069150388197957}
   - component: {fileID: 6026069150388197954}
   - component: {fileID: 6026069150388197956}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ScentGraphThreePen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
