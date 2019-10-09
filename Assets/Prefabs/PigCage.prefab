@@ -357,6 +357,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigWithCage
       objectReference: {fileID: 0}
+    - target: {fileID: 6026069148850078200, guid: 436e924f36a61354b84567a78921e251,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6026069148850078203, guid: 436e924f36a61354b84567a78921e251,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -432,10 +437,30 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 6026069148928585867, guid: 436e924f36a61354b84567a78921e251,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026069148928585871, guid: 436e924f36a61354b84567a78921e251,
+        type: 3}
+      propertyPath: m_Bindings.Array.size
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6026069150388197953, guid: 436e924f36a61354b84567a78921e251,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026069150388197953, guid: 436e924f36a61354b84567a78921e251,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026069150388197957, guid: 436e924f36a61354b84567a78921e251,
+        type: 3}
+      propertyPath: m_Bindings.Array.size
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 436e924f36a61354b84567a78921e251, type: 3}
@@ -460,7 +485,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 3f8abaeb5ab02b643833862a2335474d,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 3f8abaeb5ab02b643833862a2335474d,
         type: 3}
@@ -555,7 +580,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: cbe6b6f835a071d40b0c8ec6e135c92f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: cbe6b6f835a071d40b0c8ec6e135c92f,
         type: 3}
