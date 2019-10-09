@@ -1948,7 +1948,7 @@ Transform:
   - {fileID: 1161761824}
   - {fileID: 846474695}
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &245866080 stripped
 GameObject:
@@ -5655,7 +5655,7 @@ Transform:
   - {fileID: 866769182}
   - {fileID: 2132493530}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &784064703
 PrefabInstance:
@@ -8293,7 +8293,7 @@ Transform:
   - {fileID: 1206540404}
   - {fileID: 1322387586}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 90.00001, z: 0}
 --- !u!1001 &1225265251
 PrefabInstance:
@@ -13155,6 +13155,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.20014155
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895390516597699703, guid: 6025970d31aee8341a53f6333cfbeef8,
+        type: 3}
+      propertyPath: SceneToLoad
+      value: JD_PigPen1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895390516597699703, guid: 6025970d31aee8341a53f6333cfbeef8,
+        type: 3}
+      propertyPath: doorId
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6025970d31aee8341a53f6333cfbeef8, type: 3}
