@@ -442,6 +442,16 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6026069148928585864, guid: 436e924f36a61354b84567a78921e251,
+        type: 3}
+      propertyPath: m_Name
+      value: PigScent
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026069150388197982, guid: 436e924f36a61354b84567a78921e251,
+        type: 3}
+      propertyPath: m_Name
+      value: PigCage
+      objectReference: {fileID: 0}
     - target: {fileID: 6026069148928585866, guid: 436e924f36a61354b84567a78921e251,
         type: 3}
       propertyPath: m_PropertySheet.m_Float.m_Array.Array.size
