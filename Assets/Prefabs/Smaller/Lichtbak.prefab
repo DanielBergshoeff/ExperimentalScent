@@ -2061,7 +2061,7 @@ Light:
     m_NormalBias: 0.4
     m_NearPlane: 0.2
     m_CullingMatrixOverride:
-      e00: 0.86203134
+      e00: 0.3024886
       e01: 0
       e02: 0
       e03: 0
@@ -2092,7 +2092,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 1.8158084, w: 2.1932948}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 1.8158084, w: 3.7939246}
   m_UseBoundingSphereOverride: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -2125,7 +2125,7 @@ MonoBehaviour:
   nonLightmappedOnly: 0
   lightTypeExtent: 0
   m_SpotLightShape: 2
-  shapeWidth: 2.3201013
+  shapeWidth: 6.6118193
   shapeHeight: 0.81893706
   aspectRatio: 1
   shapeRadius: 0

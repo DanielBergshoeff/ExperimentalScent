@@ -295,15 +295,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -1067,15 +1132,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -1162,15 +1292,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -1282,15 +1477,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -1448,7 +1708,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Intensity
-      value: 7.957747
+      value: 55.704227
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -1458,7 +1718,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Range
-      value: 6.7048655
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -1473,7 +1733,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328322, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: displayLightIntensity
-      value: 100
+      value: 700
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a83cec7e29c0c874d859c3716b355b8c, type: 3}
@@ -1601,15 +1861,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -1741,8 +2066,8 @@ Light:
   serializedVersion: 9
   m_Type: 2
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 23.873241
-  m_Range: 9.357536
+  m_Intensity: 47.746483
+  m_Range: 19.15517
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -1885,7 +2210,7 @@ MonoBehaviour:
   useVolumetric: 1
   featuresFoldout: 1
   showAdditionalSettings: 0
-  displayLightIntensity: 300
+  displayLightIntensity: 600
   displayAreaLightEmissiveMesh: 0
   areaLightCookie: {fileID: 0}
   areaLightShadowCone: 120
@@ -1982,15 +2307,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -2469,15 +2859,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -2794,15 +3249,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -4159,15 +4679,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -4448,6 +5033,31 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
 --- !u!4 &584518285 stripped
@@ -4588,17 +5198,17 @@ PrefabInstance:
     - target: {fileID: 7707058675847708423, guid: f81fbf4d1b9287d4dabac55d685eee05,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.69
+      value: -5.07
       objectReference: {fileID: 0}
     - target: {fileID: 7707058675847708423, guid: f81fbf4d1b9287d4dabac55d685eee05,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.57
+      value: 7.23
       objectReference: {fileID: 0}
     - target: {fileID: 7707058675847708423, guid: f81fbf4d1b9287d4dabac55d685eee05,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.056
+      value: 9.79
       objectReference: {fileID: 0}
     - target: {fileID: 7707058675847708423, guid: f81fbf4d1b9287d4dabac55d685eee05,
         type: 3}
@@ -4674,6 +5284,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 0.377
+      objectReference: {fileID: 0}
+    - target: {fileID: 7707058675836606151, guid: f81fbf4d1b9287d4dabac55d685eee05,
+        type: 3}
+      propertyPath: m_WalkSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7707058675836606151, guid: f81fbf4d1b9287d4dabac55d685eee05,
+        type: 3}
+      propertyPath: m_RunSpeed
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f81fbf4d1b9287d4dabac55d685eee05, type: 3}
@@ -5105,15 +5725,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -5564,7 +6249,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Intensity
-      value: 7.957747
+      value: 55.704227
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -5574,7 +6259,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Range
-      value: 6.7048655
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -5589,7 +6274,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328322, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: displayLightIntensity
-      value: 100
+      value: 700
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a83cec7e29c0c874d859c3716b355b8c, type: 3}
@@ -5782,7 +6467,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Intensity
-      value: 7.957747
+      value: 55.704227
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -5792,7 +6477,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Range
-      value: 6.7048655
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -5807,7 +6492,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328322, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: displayLightIntensity
-      value: 100
+      value: 700
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a83cec7e29c0c874d859c3716b355b8c, type: 3}
@@ -5938,15 +6623,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -6950,15 +7700,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -7175,7 +7990,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Intensity
-      value: 7.957747
+      value: 55.704227
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -7185,7 +8000,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Range
-      value: 6.7048655
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -7200,7 +8015,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328322, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: displayLightIntensity
-      value: 100
+      value: 700
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a83cec7e29c0c874d859c3716b355b8c, type: 3}
@@ -7287,15 +8102,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -7605,8 +8485,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1080806772}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.7634, y: 2.2755, z: 0.77462}
-  m_LocalScale: {x: 1.6027, y: 1.6027, z: 1.6027}
+  m_LocalPosition: {x: 13.036, y: 6.7415, z: 2.7737}
+  m_LocalScale: {x: 3.4381475, y: 3.4381475, z: 3.4381475}
   m_Children:
   - {fileID: 358807911}
   - {fileID: 959733013}
@@ -7952,15 +8832,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -8153,7 +9098,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Intensity
-      value: 7.957747
+      value: 55.704227
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -8163,7 +9108,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Range
-      value: 6.7048655
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -8178,7 +9123,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328322, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: displayLightIntensity
-      value: 100
+      value: 700
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a83cec7e29c0c874d859c3716b355b8c, type: 3}
@@ -9230,7 +10175,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Intensity
-      value: 7.957747
+      value: 55.704227
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -9240,7 +10185,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Range
-      value: 6.7048655
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -9255,7 +10200,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328322, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: displayLightIntensity
-      value: 100
+      value: 700
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a83cec7e29c0c874d859c3716b355b8c, type: 3}
@@ -9447,7 +10392,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Intensity
-      value: 7.957747
+      value: 55.704227
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -9457,7 +10402,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Range
-      value: 6.7048655
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -9472,7 +10417,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328322, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: displayLightIntensity
-      value: 100
+      value: 700
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a83cec7e29c0c874d859c3716b355b8c, type: 3}
@@ -10446,15 +11391,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -10838,15 +11848,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -10933,15 +12008,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -10966,12 +12106,12 @@ PrefabInstance:
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.312
+      value: -5.31
       objectReference: {fileID: 0}
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.0621
+      value: 6.67
       objectReference: {fileID: 0}
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
@@ -11495,7 +12635,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1775332135}
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0.501, y: 1.38, z: 3.795}
+  m_LocalPosition: {x: 0.501, y: 0.825, z: 3.795}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 170536994}
@@ -11582,7 +12722,7 @@ MonoBehaviour:
   useVolumetric: 1
   featuresFoldout: 1
   showAdditionalSettings: 0
-  displayLightIntensity: 30
+  displayLightIntensity: 500
   displayAreaLightEmissiveMesh: 0
   areaLightCookie: {fileID: 0}
   areaLightShadowCone: 120
@@ -11613,8 +12753,8 @@ Light:
   serializedVersion: 9
   m_Type: 2
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 2.387324
-  m_Range: 4.3812475
+  m_Intensity: 39.788734
+  m_Range: 14.328139
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -11739,15 +12879,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -11772,12 +12977,12 @@ PrefabInstance:
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.414
+      value: -3.412
       objectReference: {fileID: 0}
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.065
+      value: 6.6671
       objectReference: {fileID: 0}
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
@@ -12021,15 +13226,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -12116,15 +13386,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -12224,7 +13559,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Intensity
-      value: 7.957747
+      value: 55.704227
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -12234,7 +13569,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Range
-      value: 6.7048655
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -12249,7 +13584,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328322, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: displayLightIntensity
-      value: 100
+      value: 700
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a83cec7e29c0c874d859c3716b355b8c, type: 3}
@@ -13082,15 +14417,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -13215,7 +14615,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Intensity
-      value: 7.957747
+      value: 55.704227
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -13225,7 +14625,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Range
-      value: 6.7048655
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -13240,7 +14640,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328322, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: displayLightIntensity
-      value: 100
+      value: 700
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a83cec7e29c0c874d859c3716b355b8c, type: 3}
@@ -13352,15 +14752,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689522
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.04061
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.15336823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.520305
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.870991
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 8.841941
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
@@ -13460,7 +14925,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Intensity
-      value: 7.957747
+      value: 55.704227
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -13470,7 +14935,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Range
-      value: 6.7048655
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -13485,7 +14950,7 @@ PrefabInstance:
     - target: {fileID: 8284425973737328322, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: displayLightIntensity
-      value: 100
+      value: 700
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a83cec7e29c0c874d859c3716b355b8c, type: 3}
@@ -14056,15 +15521,80 @@ PrefabInstance:
       propertyPath: m_UseColorTemperature
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Range
+      value: 13.040613
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e22
+      value: 0.1533682
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e23
+      value: -1.0000154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 6.5203066
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 7.3701143
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e00
+      value: 0.3024886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375256866793234349, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Shadows.m_CullingMatrixOverride.e11
+      value: 1.0689521
+      objectReference: {fileID: 0}
     - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: displayLightIntensity
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 3800329669784705099, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.8709912
+      objectReference: {fileID: 0}
     - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 1.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5198134887158672168, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 9.226374
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeWidth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 776147128256888442, guid: 35d12e8e89e80134dab85a3a6c0cd855,
+        type: 3}
+      propertyPath: shapeHeight
+      value: 1.15
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35d12e8e89e80134dab85a3a6c0cd855, type: 3}
