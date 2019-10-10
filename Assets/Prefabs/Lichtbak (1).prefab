@@ -3854,8 +3854,8 @@ Light:
   serializedVersion: 9
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 30
-  m_Range: 3.3793797
+  m_Intensity: 35
+  m_Range: 6.1
   m_SpotAngle: 87.22851
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -3878,8 +3878,8 @@ Light:
       e13: 0
       e20: 0
       e21: 0
-      e22: 0.59184206
-      e23: -1.0000591
+      e22: 0.32787424
+      e23: -1.0000328
       e30: 0
       e31: 0
       e32: 0
@@ -3899,7 +3899,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 1.6896899, w: 2.1448095}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 3.05, w: 3.3238015}
   m_UseBoundingSphereOverride: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -3942,7 +3942,7 @@ MonoBehaviour:
   useVolumetric: 1
   featuresFoldout: 1
   showAdditionalSettings: 0
-  displayLightIntensity: 30
+  displayLightIntensity: 35
   displayAreaLightEmissiveMesh: 0
   areaLightCookie: {fileID: 0}
   areaLightShadowCone: 120

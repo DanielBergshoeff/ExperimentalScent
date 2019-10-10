@@ -183,7 +183,7 @@ GameObject:
   - component: {fileID: 6109625683753687374}
   m_Layer: 0
   m_Name: CarrotModel
-  m_TagString: Untagged
+  m_TagString: Carrot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -216,8 +216,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.06, y: 0.08, z: 0.06}
-  m_Center: {x: 0.02, y: 0.028, z: 0.055}
+  m_Size: {x: 0.0783209, y: 0.10442787, z: 0.0783209}
+  m_Center: {x: 0.02916039, y: 0.027999936, z: 0.05500007}
 --- !u!1 &8349913355100749491
 GameObject:
   m_ObjectHideFlags: 0

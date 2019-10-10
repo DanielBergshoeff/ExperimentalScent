@@ -46,7 +46,10 @@ public class ScentManager : MonoBehaviour
     public void RemoveScentObject(GameObject scentObject)
     {
         if (!ScentObjects.Contains(scentObject))
+        {
+            Destroy(scentObject);
             return;
+        }
 
         int index = ScentObjects.IndexOf(scentObject);
 
