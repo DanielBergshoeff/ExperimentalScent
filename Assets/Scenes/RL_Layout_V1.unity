@@ -6467,17 +6467,17 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Intensity
-      value: 55.704227
+      value: 79.57747
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_SpotAngle
-      value: 93.19686
+      value: 56.48755
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Range
-      value: 30
+      value: 10.945742
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -6489,10 +6489,15 @@ PrefabInstance:
       propertyPath: m_ColorTemperature
       value: 14840
       objectReference: {fileID: 0}
+    - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
+        type: 3}
+      propertyPath: m_Cookie
+      value: 
+      objectReference: {fileID: 2800000, guid: b1d7fee26e54cc3498f6267f072a45b9, type: 3}
     - target: {fileID: 8284425973737328322, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: displayLightIntensity
-      value: 700
+      value: 1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a83cec7e29c0c874d859c3716b355b8c, type: 3}
@@ -12106,17 +12111,17 @@ PrefabInstance:
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.31
+      value: 4.97
       objectReference: {fileID: 0}
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.67
+      value: 6.589
       objectReference: {fileID: 0}
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 5.333
+      value: 19.2
       objectReference: {fileID: 0}
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
@@ -12157,6 +12162,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 86.647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 6.3294277
+      objectReference: {fileID: 0}
+    - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 6.329426
+      objectReference: {fileID: 0}
+    - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 6.329426
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 974029458090dd7498f63965615cb68c, type: 3}
@@ -12722,7 +12742,7 @@ MonoBehaviour:
   useVolumetric: 1
   featuresFoldout: 1
   showAdditionalSettings: 0
-  displayLightIntensity: 500
+  displayLightIntensity: 700
   displayAreaLightEmissiveMesh: 0
   areaLightCookie: {fileID: 0}
   areaLightShadowCone: 120
@@ -12753,7 +12773,7 @@ Light:
   serializedVersion: 9
   m_Type: 2
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 39.788734
+  m_Intensity: 55.704227
   m_Range: 14.328139
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -12977,17 +12997,17 @@ PrefabInstance:
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.412
+      value: 2.15
       objectReference: {fileID: 0}
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.6671
+      value: 6.5471
       objectReference: {fileID: 0}
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.101
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
         type: 3}
@@ -13028,6 +13048,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 86.647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 6.3294277
+      objectReference: {fileID: 0}
+    - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 6.329426
+      objectReference: {fileID: 0}
+    - target: {fileID: 7046437104274371769, guid: 974029458090dd7498f63965615cb68c,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 6.329426
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 974029458090dd7498f63965615cb68c, type: 3}
@@ -13559,17 +13594,17 @@ PrefabInstance:
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Intensity
-      value: 55.704227
+      value: 79.57747
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_SpotAngle
-      value: 93.19686
+      value: 56.06223
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: m_Range
-      value: 30
+      value: 11.164075
       objectReference: {fileID: 0}
     - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
@@ -13581,10 +13616,15 @@ PrefabInstance:
       propertyPath: m_ColorTemperature
       value: 14840
       objectReference: {fileID: 0}
+    - target: {fileID: 8284425973737328325, guid: a83cec7e29c0c874d859c3716b355b8c,
+        type: 3}
+      propertyPath: m_Cookie
+      value: 
+      objectReference: {fileID: 2800000, guid: b1d7fee26e54cc3498f6267f072a45b9, type: 3}
     - target: {fileID: 8284425973737328322, guid: a83cec7e29c0c874d859c3716b355b8c,
         type: 3}
       propertyPath: displayLightIntensity
-      value: 700
+      value: 1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a83cec7e29c0c874d859c3716b355b8c, type: 3}
