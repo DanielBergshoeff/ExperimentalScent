@@ -14,16 +14,19 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/JD_PigPen1_Scent.unity
     guid: d6825080d8bd3e9468a6d264c8b3544d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/JD_PigPen2_Scent.unity
     guid: cd3a9460663dcd3499341c6a5028f1e8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/JD_PigPen3_Scent.unity
     guid: 868b960740871504295699f7c1e9d684
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/RL_Layout_V1_Scent.unity
     guid: c0150671ec77d8b4394d47d82a5a20c1
+  - enabled: 1
+    path: Assets/Scenes/DB_Testing/DB_Testing6.unity
+    guid: 34c26810bc24d2f4883c3eb688c7e633
   m_configObjects: {}

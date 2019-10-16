@@ -16,31 +16,59 @@ public class ScentManager : MonoBehaviour
 
     private float timeTilUpdate = 0f;
 
+    private bool smelling = false;
+
     // Start is called before the first frame update
     void Start()
     {
-        Paths = new List<List<GridNode>>();
         Instance = this;
+    }
 
-        foreach (GameObject go in ScentObjects)
-        {
+    private void InstantiateScentLines() {
+        Paths = new List<List<GridNode>>();
+        Scents = new List<VisualEffect>();
+
+        foreach (GameObject go in ScentObjects) {
             Paths.Add(null);
             Scents.Add(Instantiate(scentPrefab).GetComponent<VisualEffect>());
         }
+
+        UpdateScentLines();
+    }
+
+    private void DestroyScentLines() {
+        foreach(VisualEffect vfx in Scents) {
+            Destroy(vfx.gameObject);
+        }
+    }
+
+    private void StopSmelling() {
+        DestroyScentLines();
+        smelling = false;
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.E) && !smelling) {
+            InstantiateScentLines();
+            smelling = true;
+            timeTilUpdate = timePerUpdate;
+            Invoke("StopSmelling", timePerUpdate);
+        }
+
+        if (!smelling)
+            return;
+
         DisplayScentLines();
 
         timeTilUpdate -= Time.deltaTime;
 
-        if (timeTilUpdate > 0f)
+        /*if (timeTilUpdate > 0f)
             return;
-
+        
         timeTilUpdate = timePerUpdate;
-        UpdateScentLines();
+        UpdateScentLines();*/
     }
 
     public void RemoveScentObject(GameObject scentObject)
@@ -67,7 +95,7 @@ public class ScentManager : MonoBehaviour
     {
         for (int i = 0; i < ScentObjects.Count; i++) //Go through all the scent objects
         {
-            Paths[i] = RoomManager.Instance.pathfinding.FindPath(ScentObjects[i].transform.position, transform.position); //Calculate the path from the object to this position
+            Paths[i] = RoomManager.Instance.pathfinding.FindPath(transform.position, ScentObjects[i].transform.position); //Calculate the path from the object to this position
             if (Paths[i].Count <= maxDistanceScent)
                 continue;
 
@@ -95,12 +123,12 @@ public class ScentManager : MonoBehaviour
             Vector3 targetNode = Vector3.zero;
 
             if (intNode < 0)
-                currentNode = ScentObjects[i].transform.position;
+                currentNode = transform.position;
             else
                 currentNode = Paths[i][intNode].vPosition;
 
             if (intNode + 1 > Paths[i].Count - 1)
-                targetNode = transform.position;
+                targetNode = ScentObjects[i].transform.position;
             else
                 targetNode = Paths[i][intNode + 1].vPosition;
             

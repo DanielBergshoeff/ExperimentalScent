@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7043766874001343884}
   - component: {fileID: 7043766874001343880}
   - component: {fileID: 7043766874001343883}
+  - component: {fileID: 3970670670885641037}
   m_Layer: 0
   m_Name: PigScent
   m_TagString: Untagged
@@ -214,3 +215,16 @@ MonoBehaviour:
   m_Parameter:
     m_Name: WindPosition
   Target: {fileID: 0}
+--- !u!114 &3970670670885641037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7043766874001343887}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba3524ddad7db646be73f3776ac43be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StrongScent: 1

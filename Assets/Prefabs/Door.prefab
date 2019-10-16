@@ -168,6 +168,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: DoorScent (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 25094079084933226, guid: 9e7fcbae34499b54387d9da91046b7e4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 25094079084933221, guid: 9e7fcbae34499b54387d9da91046b7e4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -237,6 +242,56 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 5.0412784
+      objectReference: {fileID: 0}
+    - target: {fileID: 25094079084933220, guid: 9e7fcbae34499b54387d9da91046b7e4,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Gradient.m_Array.Array.data[1].m_Value.key0.g
+      value: 1.9454075
+      objectReference: {fileID: 0}
+    - target: {fileID: 25094079084933220, guid: 9e7fcbae34499b54387d9da91046b7e4,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Gradient.m_Array.Array.data[1].m_Value.key0.b
+      value: 1.3507854
+      objectReference: {fileID: 0}
+    - target: {fileID: 25094079084933220, guid: 9e7fcbae34499b54387d9da91046b7e4,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Gradient.m_Array.Array.data[1].m_Value.key1.g
+      value: 0.78632927
+      objectReference: {fileID: 0}
+    - target: {fileID: 25094079084933220, guid: 9e7fcbae34499b54387d9da91046b7e4,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Gradient.m_Array.Array.data[1].m_Value.key1.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 25094079084933220, guid: 9e7fcbae34499b54387d9da91046b7e4,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Gradient.m_Array.Array.data[1].m_Value.key2.g
+      value: 0.56404424
+      objectReference: {fileID: 0}
+    - target: {fileID: 25094079084933220, guid: 9e7fcbae34499b54387d9da91046b7e4,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Gradient.m_Array.Array.data[1].m_Value.key2.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 25094079084933220, guid: 9e7fcbae34499b54387d9da91046b7e4,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Gradient.m_Array.Array.data[1].m_Value.key3.g
+      value: 0.9538098
+      objectReference: {fileID: 0}
+    - target: {fileID: 25094079084933220, guid: 9e7fcbae34499b54387d9da91046b7e4,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Gradient.m_Array.Array.data[1].m_Value.key3.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 25094079084933220, guid: 9e7fcbae34499b54387d9da91046b7e4,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Gradient.m_Array.Array.data[1].m_Value.ctime1
+      value: 19082
+      objectReference: {fileID: 0}
+    - target: {fileID: 25094079084933220, guid: 9e7fcbae34499b54387d9da91046b7e4,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Gradient.m_Array.Array.data[1].m_Value.ctime2
+      value: 39707
       objectReference: {fileID: 0}
     - target: {fileID: 25094079084933227, guid: 9e7fcbae34499b54387d9da91046b7e4,
         type: 3}
@@ -341,7 +396,7 @@ PrefabInstance:
     - target: {fileID: -1504981713932161579, guid: 0223c018791b1bd4ea2722f6cc156d1c,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0223c018791b1bd4ea2722f6cc156d1c, type: 3}

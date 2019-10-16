@@ -11,8 +11,9 @@ GameObject:
   - component: {fileID: 25094079084933221}
   - component: {fileID: 25094079084933220}
   - component: {fileID: 25094079084933227}
+  - component: {fileID: 5853576752220417424}
   m_Layer: 0
-  m_Name: ScentGraphThreeDoor
+  m_Name: DoorScent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -181,3 +182,16 @@ VFXRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &5853576752220417424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 25094079084933226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba3524ddad7db646be73f3776ac43be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StrongScent: 0

@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 9051597392012824017}
   - component: {fileID: 429156545318590692}
   - component: {fileID: 4390030961456349167}
-  m_Layer: 0
+  - component: {fileID: 7004972872256635414}
+  m_Layer: 10
   m_Name: ScentGraphThreeBabyPig (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -184,6 +185,19 @@ VFXRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &7004972872256635414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 269333612500765057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba3524ddad7db646be73f3776ac43be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StrongScent: 0
 --- !u!1 &1281459801825692891
 GameObject:
   m_ObjectHideFlags: 0
@@ -196,7 +210,7 @@ GameObject:
   - component: {fileID: 4057511835778751426}
   - component: {fileID: 2202287236684366815}
   - component: {fileID: 1337840842677991859}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Insemination1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -397,13 +411,13 @@ GameObject:
   - component: {fileID: 7509758800590961523}
   - component: {fileID: 8466479909005010405}
   - component: {fileID: 1875495017418794264}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ScentGraphThreePigPen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7509758800590961523
 Transform:
   m_ObjectHideFlags: 0
@@ -505,7 +519,7 @@ VFXRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1525402569664162197}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -548,7 +562,7 @@ GameObject:
   - component: {fileID: 1928265876031376431}
   - component: {fileID: 5990603201347817294}
   - component: {fileID: 3492415446783382925}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -639,7 +653,8 @@ GameObject:
   - component: {fileID: 1055453846525133258}
   - component: {fileID: 286293638491209286}
   - component: {fileID: 4391956139180996499}
-  m_Layer: 0
+  - component: {fileID: 1850964916899895748}
+  m_Layer: 10
   m_Name: ScentGraphThreeBabyPig (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -812,6 +827,19 @@ VFXRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &1850964916899895748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949738874371698072}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba3524ddad7db646be73f3776ac43be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StrongScent: 0
 --- !u!65 &244684124528428125
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -933,7 +961,7 @@ GameObject:
   - component: {fileID: 6857744127383961261}
   - component: {fileID: 1673045841191386490}
   - component: {fileID: 1355542452862813903}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Insemination2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1026,7 +1054,7 @@ GameObject:
   - component: {fileID: 3438806802928350151}
   - component: {fileID: 2993016960080660930}
   - component: {fileID: 3443333731703885948}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1214,7 +1242,7 @@ GameObject:
   - component: {fileID: 5150131783232593658}
   - component: {fileID: 5087567928068264092}
   - component: {fileID: 664893926388017928}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1460,7 +1488,7 @@ GameObject:
   - component: {fileID: 1249394394686277973}
   - component: {fileID: 2866999716002520784}
   - component: {fileID: 2298936148120567287}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1549,7 +1577,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6279532092618204153}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Piglets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1587,7 +1615,7 @@ GameObject:
   - component: {fileID: 5758258722489714256}
   - component: {fileID: 7419559310612246067}
   - component: {fileID: 7935137697546532836}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Insemination3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1679,7 +1707,7 @@ GameObject:
   - component: {fileID: 5131194413407143189}
   - component: {fileID: 5131194413407143178}
   - component: {fileID: 3311006755572557925}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: PigPen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1759,7 +1787,8 @@ GameObject:
   - component: {fileID: 4767373936755044347}
   - component: {fileID: 2608210429902269732}
   - component: {fileID: 2846915320358119386}
-  m_Layer: 0
+  - component: {fileID: 5099584886659704074}
+  m_Layer: 10
   m_Name: ScentGraphThreeBabyPig (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1932,6 +1961,19 @@ VFXRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &5099584886659704074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5339757725149718595}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba3524ddad7db646be73f3776ac43be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StrongScent: 0
 --- !u!1 &5996591771311908564
 GameObject:
   m_ObjectHideFlags: 0
@@ -1944,7 +1986,7 @@ GameObject:
   - component: {fileID: 3947941421231192717}
   - component: {fileID: 1426483855612214362}
   - component: {fileID: 2867477895236982047}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Pig
   m_TagString: Pig
   m_Icon: {fileID: 0}
@@ -2026,13 +2068,13 @@ GameObject:
   - component: {fileID: 2357548758243983268}
   - component: {fileID: 8806757505460091713}
   - component: {fileID: 7119753164398974117}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ScentGraphThreePigPenDoor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2357548758243983268
 Transform:
   m_ObjectHideFlags: 0
@@ -2162,7 +2204,7 @@ VFXRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6974162141637833052}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -2300,7 +2342,8 @@ GameObject:
   - component: {fileID: 5164207440213553089}
   - component: {fileID: 4288889852861158592}
   - component: {fileID: 1166897530211743615}
-  m_Layer: 0
+  - component: {fileID: 5839326238253644444}
+  m_Layer: 10
   m_Name: ScentGraphThreeBabyPig (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2473,6 +2516,19 @@ VFXRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &5839326238253644444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7728894286319199927}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba3524ddad7db646be73f3776ac43be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StrongScent: 0
 --- !u!1 &8020128296105743844
 GameObject:
   m_ObjectHideFlags: 0
@@ -2482,7 +2538,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 632179692431882878}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2616,7 +2672,7 @@ GameObject:
   - component: {fileID: 3953491355580190292}
   - component: {fileID: 6792845024839538153}
   - component: {fileID: 372434807720985699}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Cube (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2804,7 +2860,7 @@ GameObject:
   - component: {fileID: 2264523867568264985}
   - component: {fileID: 3306095655774670802}
   - component: {fileID: 8489581369895446778}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2901,6 +2957,11 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Pig
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 3fc968184d5ffc240ada1b1c74f7f6bf,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 3fc968184d5ffc240ada1b1c74f7f6bf,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2979,7 +3040,7 @@ PrefabInstance:
     - target: {fileID: -1504981713932161579, guid: 3fc968184d5ffc240ada1b1c74f7f6bf,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3fc968184d5ffc240ada1b1c74f7f6bf, type: 3}
@@ -3006,6 +3067,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PigScent
+      objectReference: {fileID: 0}
+    - target: {fileID: 7043766874001343887, guid: 89fdb37b6b261e147882bbab8602467f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 7043766874001343882, guid: 89fdb37b6b261e147882bbab8602467f,
         type: 3}
@@ -3102,6 +3168,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPCPiglet_3 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8845549745798180151, guid: 18fd88e1be3f6b047be6796017173641,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5519985393598865188, guid: 18fd88e1be3f6b047be6796017173641,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3160,7 +3231,7 @@ PrefabInstance:
     - target: {fileID: 7132965877792299499, guid: 18fd88e1be3f6b047be6796017173641,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18fd88e1be3f6b047be6796017173641, type: 3}
@@ -3191,7 +3262,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 6e87af26fbaf0c24293f4e67712fac51,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: -927199367670048503, guid: 6e87af26fbaf0c24293f4e67712fac51,
         type: 3}
@@ -3293,6 +3364,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPCPiglet_3 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2742919285234227198, guid: 67c1063c478ace846b5f50cb64a773b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 1174198524630443501, guid: 67c1063c478ace846b5f50cb64a773b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3351,19 +3427,19 @@ PrefabInstance:
     - target: {fileID: 4479982676461642530, guid: 67c1063c478ace846b5f50cb64a773b4,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 67c1063c478ace846b5f50cb64a773b4, type: 3}
---- !u!4 &5852124256284688739 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1174198524630443501, guid: 67c1063c478ace846b5f50cb64a773b4,
-    type: 3}
-  m_PrefabInstance: {fileID: 4719063598434444430}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &7452812905115628400 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2742919285234227198, guid: 67c1063c478ace846b5f50cb64a773b4,
+    type: 3}
+  m_PrefabInstance: {fileID: 4719063598434444430}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &5852124256284688739 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1174198524630443501, guid: 67c1063c478ace846b5f50cb64a773b4,
     type: 3}
   m_PrefabInstance: {fileID: 4719063598434444430}
   m_PrefabAsset: {fileID: 0}
@@ -3382,7 +3458,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 69195723dfb0f3542806ac369ba70927,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: -927199367670048503, guid: 69195723dfb0f3542806ac369ba70927,
         type: 3}
@@ -3392,7 +3468,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 69195723dfb0f3542806ac369ba70927,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 69195723dfb0f3542806ac369ba70927,
         type: 3}
@@ -3499,7 +3575,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: ad1ab7b920067a24fb74ed1a6c7b0966,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: -927199367670048503, guid: ad1ab7b920067a24fb74ed1a6c7b0966,
         type: 3}
@@ -3599,12 +3675,12 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 54ac53278fe822742a241f13a496c651,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: -927199367670048503, guid: 54ac53278fe822742a241f13a496c651,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 54ac53278fe822742a241f13a496c651,
         type: 3}
@@ -3702,6 +3778,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPCPiglet_3
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 029d06363196b3d4a87013064b2467c7,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 029d06363196b3d4a87013064b2467c7,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3780,19 +3861,19 @@ PrefabInstance:
     - target: {fileID: -1504981713932161579, guid: 029d06363196b3d4a87013064b2467c7,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 029d06363196b3d4a87013064b2467c7, type: 3}
---- !u!1 &2597383709249365107 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 029d06363196b3d4a87013064b2467c7,
-    type: 3}
-  m_PrefabInstance: {fileID: 6280885057800289658}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1319725528389195360 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: 029d06363196b3d4a87013064b2467c7,
+    type: 3}
+  m_PrefabInstance: {fileID: 6280885057800289658}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2597383709249365107 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 029d06363196b3d4a87013064b2467c7,
     type: 3}
   m_PrefabInstance: {fileID: 6280885057800289658}
   m_PrefabAsset: {fileID: 0}
@@ -3807,6 +3888,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ScentGraphThreeBabyPig
+      objectReference: {fileID: 0}
+    - target: {fileID: 5208586854492298810, guid: cc49399001aaefa418740701d2c978a2,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 3273510565638602425, guid: cc49399001aaefa418740701d2c978a2,
         type: 3}
@@ -3888,6 +3974,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPCPiglet_3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 029d06363196b3d4a87013064b2467c7,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 029d06363196b3d4a87013064b2467c7,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3966,7 +4057,7 @@ PrefabInstance:
     - target: {fileID: -1504981713932161579, guid: 029d06363196b3d4a87013064b2467c7,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 029d06363196b3d4a87013064b2467c7, type: 3}
@@ -3993,6 +4084,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NPCPiglet_3 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5780683386491378315, guid: b971968401e0cd3429b4849879e7a133,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 7377535217638369432, guid: b971968401e0cd3429b4849879e7a133,
         type: 3}
@@ -4052,19 +4148,19 @@ PrefabInstance:
     - target: {fileID: 5189777230900768343, guid: b971968401e0cd3429b4849879e7a133,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b971968401e0cd3429b4849879e7a133, type: 3}
---- !u!4 &1233022788825189410 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7377535217638369432, guid: b971968401e0cd3429b4849879e7a133,
-    type: 3}
-  m_PrefabInstance: {fileID: 8610555386088907962}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2830453444764368433 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5780683386491378315, guid: b971968401e0cd3429b4849879e7a133,
+    type: 3}
+  m_PrefabInstance: {fileID: 8610555386088907962}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1233022788825189410 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7377535217638369432, guid: b971968401e0cd3429b4849879e7a133,
     type: 3}
   m_PrefabInstance: {fileID: 8610555386088907962}
   m_PrefabAsset: {fileID: 0}

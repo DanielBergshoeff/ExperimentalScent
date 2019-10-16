@@ -2047,7 +2047,7 @@ Light:
   serializedVersion: 9
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 30
+  m_Intensity: 10
   m_Range: 3.6316168
   m_SpotAngle: 87.22851
   m_InnerSpotAngle: 21.80208
@@ -2135,7 +2135,7 @@ MonoBehaviour:
   useVolumetric: 1
   featuresFoldout: 1
   showAdditionalSettings: 0
-  displayLightIntensity: 30
+  displayLightIntensity: 10
   displayAreaLightEmissiveMesh: 0
   areaLightCookie: {fileID: 0}
   areaLightShadowCone: 120
@@ -7813,7 +7813,7 @@ Light:
   serializedVersion: 9
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 94.53322
+  m_Intensity: 23.633305
   m_Range: 0.6512641
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -7901,7 +7901,7 @@ MonoBehaviour:
   useVolumetric: 1
   featuresFoldout: 1
   showAdditionalSettings: 0
-  displayLightIntensity: 200
+  displayLightIntensity: 50
   displayAreaLightEmissiveMesh: 0
   areaLightCookie: {fileID: 0}
   areaLightShadowCone: 120
