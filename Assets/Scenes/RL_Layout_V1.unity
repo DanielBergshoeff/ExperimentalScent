@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 11099850}
   - component: {fileID: 11099849}
   - component: {fileID: 11099848}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1099,7 +1099,7 @@ GameObject:
   - component: {fileID: 70687422}
   - component: {fileID: 70687421}
   - component: {fileID: 70687420}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreePallet (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1269,7 +1269,7 @@ GameObject:
   - component: {fileID: 71916043}
   - component: {fileID: 71916042}
   - component: {fileID: 71916041}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreePallet (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1565,7 +1565,7 @@ GameObject:
   - component: {fileID: 100278675}
   - component: {fileID: 100278674}
   - component: {fileID: 100278673}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1763,7 +1763,7 @@ GameObject:
   - component: {fileID: 107274218}
   - component: {fileID: 107274217}
   - component: {fileID: 107274216}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeLog (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2090,6 +2090,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ScentGraphThreeBox
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237884917349336927, guid: 042c0ac7a1b472842b82cb9145e3a415,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 1237884917349336924, guid: 042c0ac7a1b472842b82cb9145e3a415,
         type: 3}
@@ -2957,7 +2962,7 @@ GameObject:
   - component: {fileID: 176679521}
   - component: {fileID: 176679520}
   - component: {fileID: 176679519}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4087,7 +4092,7 @@ GameObject:
   - component: {fileID: 271980967}
   - component: {fileID: 271980966}
   - component: {fileID: 271980965}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4291,7 +4296,7 @@ GameObject:
   - component: {fileID: 304605361}
   - component: {fileID: 304605360}
   - component: {fileID: 304605359}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4489,7 +4494,7 @@ GameObject:
   - component: {fileID: 304836264}
   - component: {fileID: 304836263}
   - component: {fileID: 304836262}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreePallet (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4959,7 +4964,7 @@ GameObject:
   - component: {fileID: 335974030}
   - component: {fileID: 335974029}
   - component: {fileID: 335974028}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5283,7 +5288,7 @@ GameObject:
   - component: {fileID: 364422757}
   - component: {fileID: 364422756}
   - component: {fileID: 364422755}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6018,7 +6023,7 @@ GameObject:
   - component: {fileID: 387469449}
   - component: {fileID: 387469448}
   - component: {fileID: 387469447}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreePallet (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6488,25 +6493,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5324b2c6ed5516341b04e19cc32c4a15, type: 3}
---- !u!1 &408082358 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7180461825879769313, guid: 5324b2c6ed5516341b04e19cc32c4a15,
-    type: 3}
-  m_PrefabInstance: {fileID: 408082357}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &408082359
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 408082358}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ba3524ddad7db646be73f3776ac43be, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  StrongScent: 0
 --- !u!1 &413292845
 GameObject:
   m_ObjectHideFlags: 0
@@ -7223,7 +7209,7 @@ GameObject:
   - component: {fileID: 490295501}
   - component: {fileID: 490295500}
   - component: {fileID: 490295499}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreePallet (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7628,7 +7614,7 @@ GameObject:
   - component: {fileID: 522154239}
   - component: {fileID: 522154238}
   - component: {fileID: 522154237}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8322,7 +8308,7 @@ GameObject:
   - component: {fileID: 554905984}
   - component: {fileID: 554905983}
   - component: {fileID: 554905982}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9179,15 +9165,15 @@ PrefabInstance:
       propertyPath: ScentObjects.Array.data[1]
       value: 
       objectReference: {fileID: 1918065885}
-    - target: {fileID: 7707058675839777479, guid: f81fbf4d1b9287d4dabac55d685eee05,
-        type: 3}
-      propertyPath: MinDistance
-      value: 0.66462994
-      objectReference: {fileID: 0}
     - target: {fileID: 7707058675846095111, guid: f81fbf4d1b9287d4dabac55d685eee05,
         type: 3}
       propertyPath: m_AllowMSAA
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7707058675839777479, guid: f81fbf4d1b9287d4dabac55d685eee05,
+        type: 3}
+      propertyPath: MinDistance
+      value: 0.66462994
       objectReference: {fileID: 0}
     - target: {fileID: 7707058675847708421, guid: f81fbf4d1b9287d4dabac55d685eee05,
         type: 3}
@@ -9302,7 +9288,7 @@ GameObject:
   - component: {fileID: 627086008}
   - component: {fileID: 627086007}
   - component: {fileID: 627086006}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9754,6 +9740,93 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &664673445
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1865852386181509376, guid: 579ac93f35263b3418c0daf8c8db2283,
+        type: 3}
+      propertyPath: m_Name
+      value: FirstPersonCharacterVFX
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865852386181509433, guid: 579ac93f35263b3418c0daf8c8db2283,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865852386181509433, guid: 579ac93f35263b3418c0daf8c8db2283,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865852386181509433, guid: 579ac93f35263b3418c0daf8c8db2283,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -8.587
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865852386181509433, guid: 579ac93f35263b3418c0daf8c8db2283,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865852386181509433, guid: 579ac93f35263b3418c0daf8c8db2283,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865852386181509433, guid: 579ac93f35263b3418c0daf8c8db2283,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865852386181509433, guid: 579ac93f35263b3418c0daf8c8db2283,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865852386181509433, guid: 579ac93f35263b3418c0daf8c8db2283,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865852386181509433, guid: 579ac93f35263b3418c0daf8c8db2283,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865852386181509433, guid: 579ac93f35263b3418c0daf8c8db2283,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865852386181509433, guid: 579ac93f35263b3418c0daf8c8db2283,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 579ac93f35263b3418c0daf8c8db2283, type: 3}
+--- !u!1 &664673446 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1865852386181509376, guid: 579ac93f35263b3418c0daf8c8db2283,
+    type: 3}
+  m_PrefabInstance: {fileID: 664673445}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &666864628 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5572350304254325053, guid: f81fbf4d1b9287d4dabac55d685eee05,
+    type: 3}
+  m_PrefabInstance: {fileID: 626544159}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &677367883
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10257,7 +10330,7 @@ GameObject:
   - component: {fileID: 720729571}
   - component: {fileID: 720729570}
   - component: {fileID: 720729569}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeLog (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10859,16 +10932,31 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3092588263686913305, guid: c5a1b174e04678b439629ed7312c245f,
-        type: 3}
-      propertyPath: WindPosition
-      value: 
-      objectReference: {fileID: 2041007803}
     - target: {fileID: 3507579035260104580, guid: c5a1b174e04678b439629ed7312c245f,
         type: 3}
       propertyPath: m_Name
       value: RoomManager
       objectReference: {fileID: 0}
+    - target: {fileID: 3092588263686913305, guid: c5a1b174e04678b439629ed7312c245f,
+        type: 3}
+      propertyPath: WindPosition
+      value: 
+      objectReference: {fileID: 2041007803}
+    - target: {fileID: 3092588263686913305, guid: c5a1b174e04678b439629ed7312c245f,
+        type: 3}
+      propertyPath: ScentCamera
+      value: 
+      objectReference: {fileID: 664673446}
+    - target: {fileID: 3092588263686913305, guid: c5a1b174e04678b439629ed7312c245f,
+        type: 3}
+      propertyPath: MainCamera
+      value: 
+      objectReference: {fileID: 1311257585}
+    - target: {fileID: 3092588263686913305, guid: c5a1b174e04678b439629ed7312c245f,
+        type: 3}
+      propertyPath: FadeImage
+      value: 
+      objectReference: {fileID: 666864628}
     - target: {fileID: 3507579035260104576, guid: c5a1b174e04678b439629ed7312c245f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11361,7 +11449,7 @@ GameObject:
   - component: {fileID: 782623195}
   - component: {fileID: 782623194}
   - component: {fileID: 782623193}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13773,7 +13861,7 @@ GameObject:
   - component: {fileID: 1109435908}
   - component: {fileID: 1109435907}
   - component: {fileID: 1109435906}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14056,7 +14144,7 @@ GameObject:
   - component: {fileID: 1121037580}
   - component: {fileID: 1121037579}
   - component: {fileID: 1121037578}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreePallet (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14815,7 +14903,7 @@ GameObject:
   - component: {fileID: 1217367835}
   - component: {fileID: 1217367834}
   - component: {fileID: 1217367833}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15406,7 +15494,7 @@ GameObject:
   - component: {fileID: 1258688534}
   - component: {fileID: 1258688533}
   - component: {fileID: 1258688532}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15958,7 +16046,7 @@ GameObject:
   - component: {fileID: 1322423347}
   - component: {fileID: 1322423346}
   - component: {fileID: 1322423345}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreePallet (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16378,7 +16466,7 @@ GameObject:
   - component: {fileID: 1366032090}
   - component: {fileID: 1366032089}
   - component: {fileID: 1366032088}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16793,7 +16881,7 @@ GameObject:
   - component: {fileID: 1405479897}
   - component: {fileID: 1405479896}
   - component: {fileID: 1405479895}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16991,7 +17079,7 @@ GameObject:
   - component: {fileID: 1420943625}
   - component: {fileID: 1420943624}
   - component: {fileID: 1420943623}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreePallet (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17451,7 +17539,7 @@ GameObject:
   - component: {fileID: 1451954165}
   - component: {fileID: 1451954164}
   - component: {fileID: 1451954163}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18307,7 +18395,7 @@ GameObject:
   - component: {fileID: 1515775742}
   - component: {fileID: 1515775741}
   - component: {fileID: 1515775740}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreePallet (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19431,6 +19519,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScentGraphThreePallet
       objectReference: {fileID: 0}
+    - target: {fileID: 770849382305623538, guid: 32a56108de46a214d82cc693274093f7,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 770849382305623541, guid: 32a56108de46a214d82cc693274093f7,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19907,7 +20000,7 @@ GameObject:
   - component: {fileID: 1756831358}
   - component: {fileID: 1756831357}
   - component: {fileID: 1756831356}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20483,6 +20576,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScentGraphThreeLog
       objectReference: {fileID: 0}
+    - target: {fileID: 848662215634490926, guid: e3804602246d3b44f8cbe14697e680f3,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 848662215634490923, guid: e3804602246d3b44f8cbe14697e680f3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20863,7 +20961,7 @@ GameObject:
   - component: {fileID: 1817222395}
   - component: {fileID: 1817222394}
   - component: {fileID: 1817222393}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreePallet (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22267,7 +22365,7 @@ GameObject:
   - component: {fileID: 1931910645}
   - component: {fileID: 1931910644}
   - component: {fileID: 1931910643}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreeBox (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23095,7 +23193,7 @@ GameObject:
   - component: {fileID: 2046700531}
   - component: {fileID: 2046700530}
   - component: {fileID: 2046700529}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: ScentGraphThreePallet (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23915,6 +24013,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895390516597699703, guid: 6025970d31aee8341a53f6333cfbeef8,
+        type: 3}
+      propertyPath: SceneToLoad
+      value: JD_PigPen1_Mix
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895390516597699703, guid: 6025970d31aee8341a53f6333cfbeef8,
+        type: 3}
+      propertyPath: doorId
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6025970d31aee8341a53f6333cfbeef8, type: 3}

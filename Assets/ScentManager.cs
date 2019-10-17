@@ -50,10 +50,10 @@ public class ScentManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E) && !smelling) {
+        if (Input.GetKeyDown(KeyCode.F) && !smelling && VFXManager.Instance.Smelling) {
             InstantiateScentLines();
             smelling = true;
-            timeTilUpdate = timePerUpdate;
+            timeTilUpdate = 0f;
             Invoke("StopSmelling", timePerUpdate);
         }
 
@@ -62,7 +62,7 @@ public class ScentManager : MonoBehaviour
 
         DisplayScentLines();
 
-        timeTilUpdate -= Time.deltaTime;
+        timeTilUpdate += Time.deltaTime;
 
         /*if (timeTilUpdate > 0f)
             return;
@@ -78,16 +78,17 @@ public class ScentManager : MonoBehaviour
 
         int index = ScentObjects.IndexOf(scentObject);
 
-        VisualEffect vfx = Scents[index];
-        Scents.Remove(vfx);
+        if (smelling) {
+            VisualEffect vfx = Scents[index];
+            Scents.Remove(vfx);
+            Destroy(vfx.gameObject);
+
+            List<GridNode> gridNodes = Paths[index];
+            Paths.Remove(gridNodes);
+        }
 
         GameObject go = ScentObjects[index];
         ScentObjects.Remove(go);
-
-        List<GridNode> gridNodes = Paths[index];
-        Paths.Remove(gridNodes);
-
-        Destroy(vfx.gameObject);
         Destroy(go);
     }
 
@@ -105,7 +106,7 @@ public class ScentManager : MonoBehaviour
 
     private void DisplayScentLines()
     {
-        float timer = 1f - (timeTilUpdate / timePerUpdate);
+        float timer = timeTilUpdate / timePerUpdate;
 
         for (int i = 0; i < ScentObjects.Count; i++) //Go through all the scent objects
         {
@@ -131,8 +132,9 @@ public class ScentManager : MonoBehaviour
                 targetNode = ScentObjects[i].transform.position;
             else
                 targetNode = Paths[i][intNode + 1].vPosition;
-            
-            Vector3 newPosition = currentNode + (targetNode - currentNode).normalized * ((Paths[i].Count * timer) % 1);
+
+            float part = Paths[i].Count * timer - (float)((int)(Paths[i].Count * timer) - 1) - 1f;
+            Vector3 newPosition = currentNode + (targetNode - currentNode).normalized * part * 0.2f;
             Scents[i].SetVector3("Position", newPosition);
         }
     }

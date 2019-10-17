@@ -21,7 +21,7 @@ public class VFXManager : MonoBehaviour
     public float fadeTime = 3.0f;
     
     private bool updateTime;
-    private bool smelling;
+    public bool Smelling;
     private float scentStrength = 0f;
     private float currentFade;
 
@@ -40,15 +40,15 @@ public class VFXManager : MonoBehaviour
     {
         if (!UseWind) {
             if (Input.GetKeyDown(KeyCode.Q)) {
-                smelling = true;
+                Smelling = true;
                 currentFade = fadeTime;
             }
             else if (Input.GetKeyUp(KeyCode.Q)) {
-                smelling = false;
+                Smelling = false;
                 currentFade = fadeTime;
             }
 
-            if(!smelling) {
+            if(!Smelling) {
                 if(currentFade > 0f) {
                     float part = 1f - (currentFade / fadeTime);
                     currentFade -= Time.deltaTime;
@@ -98,7 +98,7 @@ public class VFXManager : MonoBehaviour
     }
 
     private void ApplyScent() {
-        if(currentFade > 0f && smelling) {
+        if(currentFade > 0f && Smelling) {
             float part = 1f - (currentFade / fadeTime);
             currentFade -= Time.deltaTime;
             if (part <= 0.5f) {
@@ -118,10 +118,10 @@ public class VFXManager : MonoBehaviour
         foreach (VFXEffect vfxEffect in VFXEffects) {
             vfxEffect.SetWindPosition(WindPosition.transform.position);
 
-            if (scentStrength < 1f && smelling)
+            if (scentStrength < 1f && Smelling)
                 scentStrength += Time.deltaTime / maxScentTime;
 
-            else if (scentStrength > 0f && !smelling)
+            else if (scentStrength > 0f && !Smelling)
                 scentStrength -= Time.deltaTime / maxScentTime;
 
             if (vfxEffect.StrongScent)

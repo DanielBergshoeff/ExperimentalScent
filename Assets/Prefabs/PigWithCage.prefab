@@ -305,6 +305,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PigScent
       objectReference: {fileID: 0}
+    - target: {fileID: 7043766874001343887, guid: 89fdb37b6b261e147882bbab8602467f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 7043766874001343882, guid: 89fdb37b6b261e147882bbab8602467f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -365,7 +370,8 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3970670670885641037, guid: 89fdb37b6b261e147882bbab8602467f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 89fdb37b6b261e147882bbab8602467f, type: 3}
 --- !u!1 &6026069148928585864 stripped
 GameObject:
